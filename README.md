@@ -171,7 +171,7 @@ Naturally, I also used Ultralytics' libraries and training notebooks for the mod
 
 # Related Repositories
 
-- [Website](https://github.com/pyesonekyaw/MDP-Showcase)
+* [Website](https://github.com/pyesonekyaw/MDP-Showcase)
 * [Algorithm](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-Algorithm)
 * [Simulator](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-Simulator)
 * [Raspberry Pi](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-RaspberryPi)
