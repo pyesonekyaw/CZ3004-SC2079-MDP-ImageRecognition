@@ -172,5 +172,9 @@ Naturally, I also used Ultralytics' libraries and training notebooks for the mod
 # Related Repositories
 
 - [Website](https://github.com/pyesonekyaw/MDP-Showcase)
-- [Raspberry Pi](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-RaspberryPi)
-- [Algorithm](placeholder)
+* [Algorithm](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-Algorithm)
+* [Simulator](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-Simulator)
+* [Raspberry Pi](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-RaspberryPi)
+* [HuggingFace Space](https://huggingface.co/spaces/pyesonekyaw/Image_Recognition-CZ3004_SC2079_Multidisciplinary_Project-NTU_SG)
+* [Task 1 Model](https://huggingface.co/pyesonekyaw/MDP_ImageRecognition_YOLOv5_Week_8_AY22-23_NTU-SG)
+* [Task 2 Model](https://huggingface.co/pyesonekyaw/MDP_ImageRecognition_YOLOv5_Week_9_AY22-23_NTU-SG)
